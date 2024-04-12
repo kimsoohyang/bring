@@ -974,7 +974,12 @@ footer {
 
     main{
         background-attachment:scroll;
-        height: 900px;
+        height: 800px;
+    }
+
+    #section3{
+        background: url(../images/sec3_bg.jpg) no-repeat center center;
+        background-attachment:scroll;
     }
 
     .main_text {

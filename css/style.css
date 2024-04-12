@@ -971,8 +971,14 @@ footer {
 
 @media (max-width: 634px) {
 
+
+    main{
+        background-attachment:scroll;
+        height: auto;
+    }
+
     .main_text {
-        padding-top: 40%;
+        padding: 25% 0;
     }
 
     main h2 {
@@ -1102,7 +1108,7 @@ footer {
 
     
     .main_text {
-        padding-top: 60%;
+        padding-top: 40%;
     }
 
     main h2 {

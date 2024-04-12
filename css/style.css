@@ -1077,6 +1077,24 @@ footer {
         width: 70%;
         text-align: center;
     }
+
+    
+    .section1_in{
+        padding-top: 60px;
+        margin-bottom: 30px;
+    }
+
+    .section2_in{
+       padding-bottom: 25px;
+    }
+
+    .section3_in{
+        padding: 60px 0;
+    }
+
+    footer{
+        padding: 50px 0 30px;
+    }
 }
 
 
@@ -1097,19 +1115,7 @@ footer {
 
     .section1_in{
         padding-top: 60px;
-        margin-bottom: 25px;
-    }
-
-    .section2_in{
-       padding-bottom: 25px;
-    }
-
-    .section3_in{
-        padding: 60px 0;
-    }
-
-    footer{
-        padding: 50px 0 30px;
+        margin-bottom: 20px;
     }
 
     .section1_in br {
@@ -1210,7 +1216,8 @@ footer {
     }
 
     .section1_in {
-        padding-top: 50px;
+        padding-top: 40px;
+        margin: 0 auto 20px;
     }
 
     #section1 p {

@@ -971,19 +971,8 @@ footer {
 
 @media (max-width: 634px) {
 
-
-    main{
-        background-attachment:scroll;
-        height: 800px;
-    }
-
-    #section3{
-        background: url(../images/sec3_bg.jpg) no-repeat center center;
-        background-attachment:scroll;
-    }
-
     .main_text {
-        padding: 25% 0;
+        padding-top: 40%;
     }
 
     main h2 {
@@ -1102,18 +1091,13 @@ footer {
     .section3_in{
         padding: 60px 0;
     }
-
-    footer{
-        padding: 50px 0 30px;
-    }
 }
 
 
 @media (max-width: 484px) {
 
-    
     .main_text {
-        padding-top: 40%;
+        padding-top: 60%;
     }
 
     main h2 {
@@ -1122,11 +1106,6 @@ footer {
 
     main h1 {
         font-size: 70px;
-    }
-
-    .section1_in{
-        padding-top: 60px;
-        margin-bottom: 20px;
     }
 
     .section1_in br {
@@ -1227,8 +1206,7 @@ footer {
     }
 
     .section1_in {
-        padding-top: 40px;
-        margin: 0 auto 20px;
+        padding-top: 50px;
     }
 
     #section1 p {
